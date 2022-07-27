@@ -10,6 +10,14 @@
       "StackName": "amplify-chillamplify-dev-115251",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:533428893645:stack/amplify-chillamplify-dev-115251/cb40fd60-0d67-11ed-83ac-06ae4fe5337d",
       "AmplifyAppId": "daqhbj618xjcc"
+    },
+    "categories": {
+      "function": {
+        "trigger001": {
+          "deploymentBucketName": "amplify-chillamplify-dev-115251-deployment",
+          "s3Key": "amplify-builds/trigger001-44753863644447336e65-build.zip"
+        }
+      }
     }
   }
 }
