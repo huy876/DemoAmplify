@@ -16,6 +16,10 @@
         "trigger001": {
           "deploymentBucketName": "amplify-chillamplify-dev-115251-deployment",
           "s3Key": "amplify-builds/trigger001-44753863644447336e65-build.zip"
+        },
+        "trigger002": {
+          "deploymentBucketName": "amplify-chillamplify-dev-115251-deployment",
+          "s3Key": "amplify-builds/trigger002-6f70354e44706e427648-build.zip"
         }
       }
     }
