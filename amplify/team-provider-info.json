@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chillamplify-dev-115251-authRole",
+      "UnauthRoleArn": "arn:aws:iam::533428893645:role/amplify-chillamplify-dev-115251-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::533428893645:role/amplify-chillamplify-dev-115251-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-chillamplify-dev-115251-deployment",
+      "UnauthRoleName": "amplify-chillamplify-dev-115251-unauthRole",
+      "StackName": "amplify-chillamplify-dev-115251",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:533428893645:stack/amplify-chillamplify-dev-115251/cb40fd60-0d67-11ed-83ac-06ae4fe5337d",
+      "AmplifyAppId": "daqhbj618xjcc"
+    }
+  }
+}
